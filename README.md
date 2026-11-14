@@ -6,6 +6,8 @@ I built our team an iPhone and iPad app that runs off the Google Sheet we alread
 
 I'm a coach, not a programmer. I built it with **Claude Code**, an AI coding assistant, by describing what I wanted in plain English. This guide is how you can do the same thing for your program.
 
+> **Want a head start?** The **[starter kit](https://github.com/stranny00-alt/wrestling-team-app-starter)** has the whole app and script with the Earlham details taken out. Open it in Claude Code, tell it about your team, and skip building from scratch.
+
 ---
 
 ## What you end up with
