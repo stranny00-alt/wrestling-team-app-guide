@@ -50,7 +50,13 @@ Talk to your **district IT** early. School Google accounts for students under 18
 ## Step by step
 
 ### 1. Get your sheet in shape
-Your sheet needs, at minimum:
+**Start from my blank templates** (they open as your own private copy):
+- [Ironman Tracker template](https://docs.google.com/spreadsheets/d/1lxp2jwKBXsLiLAjSiXcn-f-m57zZiXmrFUF_78pF9Ws/copy): Dashboard with all the point and Ironman formulas, Roster, Portal Access, Practice, Open Mat, Kids Club, Settings, Handbook Sign-Off and Descent Plans. Read its **START HERE** tab first, and set your school's email domain on **Settings**.
+- [Weight Class Plans template](https://docs.google.com/spreadsheets/d/1Kin2CT8FNV5F2sYEvteUeH_J8yMWZz2kewNhZxP8fPA/copy): before/after Christmas weight class choices.
+
+Keep your copy private. It will hold minors' attendance and weights.
+
+If you'd rather use your own sheet, it needs, at minimum:
 - A **roster** tab with each wrestler's name.
 - A tab that maps **wrestler name → school email → role** (wrestler or coach). This is what decides who sees what.
 - Whatever you already track: attendance, points, weight plans. Don't restructure it for the app; the app should fit your sheet, not the other way around.
